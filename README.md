@@ -1,4 +1,5 @@
 # AreaSwitch
+[![YouTube](https://img.shields.io/badge/YouTube-123456?logo=youtube&labelColor=ff0000)](https://www.youtube.com/watch?v=H8dBxNsT0wU)
 
 ## GL-iNet MT-3000
 ```
