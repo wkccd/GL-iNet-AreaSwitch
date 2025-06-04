@@ -26,6 +26,6 @@ sh -c "$(curl -fsSL https://cafe.cpolar.top/wkdaily/AreaSwitch/raw/branch/master
 
 ## GL-iNet MT-6000
 ```
-待补充
+待补充 手里目前没有这台 
 
 ```
