@@ -13,13 +13,12 @@ sh -c "$(curl -fsSL https://cafe.cpolar.top/wkdaily/AreaSwitch/raw/branch/master
 
 ```
 
-## GL-iNet MT-2500
-```
-待补充
-
-```
-
 ## GL-iNet AXT-1800
+```
+sh -c "$(curl -fsSL https://cafe.cpolar.top/wkdaily/AreaSwitch/raw/branch/master/axt1800.sh)"
+
+```
+## GL-iNet MT-2500
 ```
 待补充
 
