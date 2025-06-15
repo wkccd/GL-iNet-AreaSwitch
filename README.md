@@ -3,29 +3,29 @@
 
 ## GL-iNet MT-3000
 ```
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/wkccd/GL-iNet-AreaSwitch/refs/heads/master/mt3000.sh)"
+sh -c "$(curl -fsSL https://cafe.cpolar.top/wkdaily/AreaSwitch/raw/branch/master/mt3000.sh)"
 
 ```
 
 ## GL-iNet BE3600
 ```
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/wkccd/GL-iNet-AreaSwitch/refs/heads/master/be3600.sh)"
+sh -c "$(curl -fsSL https://cafe.cpolar.top/wkdaily/AreaSwitch/raw/branch/master/be3600.sh)"
 
 ```
 
 ## GL-iNet AXT-1800
 ```
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/wkccd/GL-iNet-AreaSwitch/refs/heads/master/axt1800.sh)"
+sh -c "$(curl -fsSL https://cafe.cpolar.top/wkdaily/AreaSwitch/raw/branch/master/axt1800.sh)"
 
 ```
 ## GL-iNet MT-2500
 ```
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/wkccd/GL-iNet-AreaSwitch/refs/heads/master/mt2500.sh)"
+sh -c "$(curl -fsSL https://cafe.cpolar.top/wkdaily/AreaSwitch/raw/branch/master/mt2500.sh)"
 
 ```
 
 ## GL-iNet MT-6000
 ```
-待补充 手里目前没有这台 
+sh -c "$(curl -fsSL https://cafe.cpolar.top/wkdaily/AreaSwitch/raw/branch/master/mt6000.sh)"
 
 ```
